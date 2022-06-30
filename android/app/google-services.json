@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614817781767",
+    "project_id": "mealup-9e034",
+    "storage_bucket": "mealup-9e034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614817781767:android:faf818144cbabc4474b2a2",
+        "android_client_info": {
+          "package_name": "app.saasmonsk.mealup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614817781767-hgtdj5rhffq0v4vns1mma1e16l73gs8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.saasmonsk.mealup",
+            "certificate_hash": "68e8c2d7adb2c75cf71bfa05ba143fe6541f022c"
+          }
+        },
+        {
+          "client_id": "614817781767-s4v2mi30qpqk6slatoetm2c34a643ka4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJVwmiOyp1ddmACe-_xZbNOUH1pT4JWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614817781767-s4v2mi30qpqk6slatoetm2c34a643ka4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
